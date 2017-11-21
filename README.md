@@ -1,5 +1,6 @@
 # makeitrain
 
+--
 This is an application using machine learning to predict the future movement of the FTSE100 index. Each day, it will generate it's prediction for the FTSE100 for the next day and the accuracy of its prediction.
 
 [Front-page](http://i.imgur.com/Kx4rBEa.jpg)
